@@ -22,14 +22,15 @@ Ce programme permet d'envoyer des messages et des images à un webhook Discord, 
 1. Clonez le repository sur votre machine locale.
 
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/k0x3z/webhook-pwner.git
 Installez les dépendances requises :
 
-bash
+bash 
 Copier le code
 pip install requests
 Utilisation
 Attacher un Webhook
+===============================
 Lorsque vous exécutez le programme pour la première fois, vous devez attacher un webhook en fournissant son URL. Si vous en avez déjà un attaché, vous pouvez le changer à tout moment via l'option 6.
 
 Options disponibles
